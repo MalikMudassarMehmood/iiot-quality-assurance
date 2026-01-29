@@ -51,7 +51,6 @@ The dataset contains weight readings for PET bottles at three production stages:
 **Labels:**  
 Each record is labeled with the corresponding inspection stage (`empty`, `filled`, `final`) for classification and analysis.  
 
-**[Download Dataset](data)**
 
 ---
 
@@ -61,7 +60,6 @@ The repository includes the following main components:
 - **Arduino Scripts:** Read load cell data via HX711 and transmit weights to host computer over USB serial.  
 - **Python Scripts:** Receive serial data, apply threshold checks for underfilling, overfilling, or defective caps, log inspection results, and generate reports.  
 
-**[Download Code](Code)**
 
 ---
 
@@ -136,4 +134,5 @@ For questions, issues, or feedback, contact the author:
 
 **Mudassar Mehmood**  
 Email: malikmudassar0197@gmail.com
+
 

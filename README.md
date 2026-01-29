@@ -106,16 +106,6 @@ The repository includes the following main components:
 6. **Synthetic Data Generation:** Uniform random data is used to expand real measurements to 10,000 samples per category.  
 7. **Performance Evaluation:** The system was tested for processing times per stage and compared against traditional automated inspection methods.  
 
----
-
-## Figures
-**Add images to your repository in `images/` folder and link here:**
-
-![System Architecture](images/system_architecture.png)  
-*Fig 1: IIoT-enabled Quality Assurance System Architecture*
-
-![Process Flow](images/flowchart.png)  
-*Fig 2: Process Flow of Bottle Inspection*
 
 ---
 
@@ -134,5 +124,6 @@ For questions, issues, or feedback, contact the author:
 
 **Mudassar Mehmood**  
 Email: malikmudassar0197@gmail.com
+
 
 
